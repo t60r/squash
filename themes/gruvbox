@@ -26,13 +26,13 @@ BWHT="#fbf1c7"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="infobar2"
+BAR_SCRIPT="polybar -r burs"
 
 # VIM COLORSCHEME
 VIM_SCHEME='gruvbox'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/sergey-turkin-299295-unsplash.jpg"
+WALLPAPER_PATH="$HOME/Wallpapers/AutumnShrineDank.jpg"
 WALLPAPER_STYLE="fill"
 
 # 2BWM OPTIONS

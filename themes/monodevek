@@ -1,26 +1,26 @@
 #!/bin/bash
 
 # DEFINE COLORS
-BG="#282A36"
-FG="#F8F8F2"
+BG="#0e0021"
+FG="#c0bbbb"
 
 BLK="#000000"
-RED="#FF5555"
-GRN="#50FA7B"
-YLW="#F1FA8C"
-BLU="#BD93F9"
-MAG="#FF79C6"
-CYN="#8BE9FD"
-WHT="#BFBFBF"
+RED="#cb1578"
+GRN="#8ecb15"
+YLW="#cb9a15"
+BLU="#6f15cb"
+MAG="#cb15c9"
+CYN="#15b4cb"
+WHT="#8c8984"
 
-BBLK="#4D4D4D"
-BRED="#FF6E67"
-BGRN="#5AF78E"
-BYLW="#F4F99D"
-BBLU="#CAA9FA"
-BMAG="#FF92D0"
-BCYN="#9AEDFE"
-BWHT="#E6E6E6"
+BBLK="#465457"
+BRED="#dc5e86"
+BGRN="#9edc60"
+BYLW="#dcb65e"
+BBLU="#7e5edc"
+BMAG="#b75edc"
+BCYN="#5edcb4"
+BWHT="#fffefe"
 
 # ROFI OPTIONS
 ACC="${RED}"
@@ -32,7 +32,7 @@ BAR_SCRIPT="polybar -r burs"
 VIM_SCHEME='dracula'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/wallpaper.png"
+WALLPAPER_PATH="$HOME/Wallpapers/SingleLadyDank.png"
 WALLPAPER_STYLE="fill"
 
 # 2BWM OPTIONS

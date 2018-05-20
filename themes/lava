@@ -26,14 +26,14 @@ BWHT="#FDCBAC"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="infobar2"
+BAR_SCRIPT="polybar -r burs"
 
 # VIM COLORSCHEME
 VIM_SCHEME='noctu'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/inframunk-photo-14.jpg"
-WALLPAPER_STYLE="fill"
+WALLPAPER_PATH="$HOME/Wallpapers/Embers.jpg"
+WALLPAPER_STYLE="cover"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${RED}"

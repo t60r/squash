@@ -26,14 +26,14 @@ BWHT="#cfefff"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="infobar2"
+BAR_SCRIPT="polybar -r burs"
 
 # VIM COLORSCHEME
 VIM_SCHEME='agila'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/annie-spratt-39297-unsplash.jpg"
-WALLPAPER_STYLE="fill"
+WALLPAPER_PATH="$HOME/Wallpapers/DoubleLady.jpg"
+WALLPAPER_STYLE="scale"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${BYLW}"

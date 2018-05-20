@@ -26,14 +26,14 @@ BWHT="#c4c4b5"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="infobar2"
+BAR_SCRIPT="polybar -r burs"
 
 # VIM COLORSCHEME
 VIM_SCHEME='bleh'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/designr.png"
-WALLPAPER_STYLE="tile"
+WALLPAPER_PATH="$HOME/Wallpapers/GhostInTheShellTwoDank.jpg"
+WALLPAPER_STYLE="fill"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${CYN}"

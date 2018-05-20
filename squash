@@ -105,6 +105,7 @@ function update_nvim()
 function update_bar() 
 {
     pkill -x lemonbar
+    pkill -x polybar 
     ( ${BAR_SCRIPT} &) > /dev/null 2>&1
 }
 
