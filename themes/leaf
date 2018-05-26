@@ -32,8 +32,8 @@ BAR_SCRIPT="polybar -r burs"
 VIM_SCHEME='bleh'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/wallpaper.png"
-WALLPAPER_STYLE="fill"
+WALLPAPER_PATH="$HOME/Wallpapers/bloom-blossom-flora-39517_dank.jpg"
+WALLPAPER_STYLE="cover"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${BLU}"

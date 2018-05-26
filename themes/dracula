@@ -32,8 +32,8 @@ BAR_SCRIPT="polybar -r burs"
 VIM_SCHEME='dracula'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/wallpaper.png"
-WALLPAPER_STYLE="fill"
+WALLPAPER_PATH="$HOME/Wallpapers/GhostInTheShellDanker.jpg"
+WALLPAPER_STYLE="cover"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${BRED}"
