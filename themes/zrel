@@ -26,7 +26,7 @@ BWHT="#AE826F"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="polybar -r burs"
+BAR_SCRIPT="infobar2"
 
 # VIM COLORSCHEME
 VIM_SCHEME='bleh'
@@ -47,3 +47,4 @@ TWOBWM_EMP="${BG}"
 # LEMONBAR OPTIONS
 LMNBAR_DARK="${BLK}"
 LMNBAR_DARKER="${BBLK}"
+SQUASH_FONT="xft:UW Ttyp0:pixelsize=14"

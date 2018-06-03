@@ -1,35 +1,35 @@
 #!/bin/bash
 
 # DEFINE COLORS
-BG="#1d2021"
-FG="#ebdbb2"
+BG="#FAFAFA"
+FG="#80CBC4"
 
-BLK="#282828"
-RED="#fb4934"
-GRN="#98971a"
-YLW="#d79921"
-BLU="#458588"
-MAG="#b16286"
-CYN="#689d6a"
-WHT="#fbf1c7"
+BLK="#d6eeec"
+RED="#ff5370"
+GRN="#91b859"
+YLW="#ffb62c"
+BLU="#6182b8"
+MAG="#7c4dff"
+CYN="#39adb5"
+WHT="#80cbc4"
 
-BBLK="#3c3836"
-BRED="#fb4934"
-BGRN="#b8bb26"
-BYLW="#fabd2f"
-BBLU="#83a598"
-BMAG="#d3869b"
-BCYN="#8ec07c"
-BWHT="#fbf1c7"
+BBLK="#99a8bd"
+BRED="#ff5370"
+BGRN="#91b859"
+BYLW="#ffb62c"
+BBLU="#6182b8"
+BMAG="#7c4dff"
+BCYN="#39adb5"
 
-# ROFI OPTIONS
-ACC="${YLW}"
 
-# BAR OPTIONS
-BAR_SCRIPT="simplebar"
+# ROFI OPTIONS 
+ACC="${YLW}" 
+
+#BAR OPTIONS 
+BAR_SCRIPT="simplebar" 
 
 # VIM COLORSCHEME
-VIM_SCHEME='gruvbox'
+VIM_SCHEME='base16-material-lighter'
 
 # WALLPAPER OPTIONS
 WALLPAPER_PATH="$HOME/Wallpapers/wWLxmcK.jpg"

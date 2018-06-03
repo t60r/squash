@@ -26,13 +26,13 @@ BWHT="#dfdedd"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="polybar -r burs"
+BAR_SCRIPT="infobar2"
 
 # VIM COLORSCHEME
 VIM_SCHEME='bleh'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/etienne-bosiger-343128-unsplash.jpg"
+WALLPAPER_PATH="$HOME/Wallpapers/eberhard-grossgasteiger-600208-unsplash.jpg"
 WALLPAPER_STYLE="fill"
 
 # 2BWM OPTIONS
@@ -47,3 +47,4 @@ TWOBWM_EMP="${BG}"
 # LEMONBAR OPTIONS
 LMNBAR_DARK="${BBLK}"
 LMNBAR_DARKER="${BLK}"
+SQUASH_FONT="xft:UW Ttyp0:pixelsize=14"

@@ -26,14 +26,14 @@ BWHT="#b9bcb7"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="polybar -r burs"
+BAR_SCRIPT="infobar2"
 
 # VIM COLORSCHEME
 VIM_SCHEME='bleh'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/bloom-blossom-flora-39517_dank.jpg"
-WALLPAPER_STYLE="cover"
+WALLPAPER_PATH="$HOME/Wallpapers/sergey-turkin-299295-unsplash.jpg"
+WALLPAPER_STYLE="fill"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${BLU}"
@@ -45,5 +45,6 @@ TWOBWM_OUTR="${BG}"
 TWOBWM_EMP="${BG}"
 
 # LEMONBAR OPTIONS
-LMNBAR_DARK="${Blk}"
+LMNBAR_DARK="${BLK}"
 LMNBAR_DARKER="${BBLK}"
+SQUASH_FONT="xft:UW Ttyp0:pixelsize=14"

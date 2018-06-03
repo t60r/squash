@@ -1,35 +1,36 @@
 #!/bin/bash
 
 # DEFINE COLORS
-BG="#121c21"
-FG="#aaafb2"
 
-BLK="#1e2e36"
-RED="#f0696f"
-GRN="#76a08c"
-YLW="#f7cca1"
-BLU="#718c97"
-MAG="#ceb5ce"
-CYN="#5f9993"
-WHT="#cfefff"
+BG="#1A2B34"
+FG="#D8DEE9"
 
-BBLK="#304b59"
-BRED="#f0696f"
-BGRN="#76a08c"
-BYLW="#f7cca1"
-BBLU="#718c97"
-BMAG="#ceb5ce"
-BCYN="#5f9993"
-BWHT="#cfefff"
+BLK="#1B2B34" 
+RED="#EC5f67"
+GRN="#99C794"
+YLW="#FAc863"
+BLU="#5FB3B3"
+MAG="#C594c5"
+CYN="#5FB3b3"
+WHT="#CDD3DE"
 
-# ROFI OPTIONS
-ACC="${RED}"
+BBLK="#343D46"
+BRED="#EC5f67"
+BGRN="#99C794"
+BYLW="#FAc863"
+BBLU="#5FB3B3"
+BMAG="#C594c5"
+BCYN="#5FB3b3"
+BWHT="#CDD3DE"
 
-# BAR OPTIONS
-BAR_SCRIPT="minibar"
+# ROFI OPTIONS 
+ACC="${YLW}" 
+
+#BAR OPTIONS 
+BAR_SCRIPT="simplebar" 
 
 # VIM COLORSCHEME
-VIM_SCHEME='agila'
+VIM_SCHEME='base16-oceanicnext'
 
 # WALLPAPER OPTIONS
 WALLPAPER_PATH="$HOME/Wallpapers/rawpixel-557126-unsplash.jpg"
@@ -49,10 +50,4 @@ BSPWM_NORMAL="${BBLK}"
 BSPWM_FOCUSED="${CYN}"
 BSPWM_URGENT="${RED}"
 BSPWM_PRESEL="${GRN}"
-
-# LEMONBAR OPTIONS
-LMNBAR_DARK="${BBLK}"
-LMNBAR_DARKER="${BLK}"
-
-OB_THEME="agila"
 SQUASH_FONT="xft:UW Ttyp0:pixelsize=14"

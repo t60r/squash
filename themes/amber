@@ -26,7 +26,7 @@ BWHT="#FF2D00"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="polybar -r burs"
+BAR_SCRIPT="infobar2"
 
 # VIM COLORSCHEME
 VIM_SCHEME='bleh'
@@ -43,3 +43,4 @@ TWOBWM_UNKILL="${CYN}"
 TWOBWM_FIXEDUNK="${MAG}"
 TWOBWM_OUTR="${BG}"
 TWOBWM_EMP="${BG}"
+SQUASH_FONT="xft:UW Ttyp0:pixelsize=14"

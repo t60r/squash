@@ -26,14 +26,14 @@ BWHT="#E6E6E6"
 ACC="${RED}"
 
 # BAR OPTIONS
-BAR_SCRIPT="polybar -r burs"
+BAR_SCRIPT="infobar2"
 
 # VIM COLORSCHEME
-VIM_SCHEME='dracula'
+VIM_SCHEME='bleh'
 
 # WALLPAPER OPTIONS
-WALLPAPER_PATH="$HOME/Wallpapers/GhostInTheShellDanker.jpg"
-WALLPAPER_STYLE="cover"
+WALLPAPER_PATH="$HOME/Wallpapers/wallpaper.png"
+WALLPAPER_STYLE="fill"
 
 # 2BWM OPTIONS
 TWOBWM_FOCUS="${BRED}"
@@ -46,4 +46,5 @@ TWOBWM_EMP="${BG}"
 
 # LEMONBAR OPTIONS
 LMNBAR_DARK="${BBLK}"
-LMNBAR_DARKER="${BG}"
+LMNBAR_DARKER="${BLK}"
+SQUASH_FONT="xft:UW Ttyp0:pixelsize=14"
