@@ -50,7 +50,7 @@ def write_theme():
         f_obj.write("BBLK=\"" + good_hex[3] + "\"\n")
         f_obj.write("BRED=\"" + good_hex[5] + "\"\n")
         f_obj.write("BGRN=\"" + good_hex[7] + "\"\n")
-        f_obj.write("BTLW=\"" + good_hex[9] + "\"\n")
+        f_obj.write("BYLW=\"" + good_hex[9] + "\"\n")
         f_obj.write("BBLU=\"" + good_hex[11] + "\"\n")
         f_obj.write("BMAG=\"" + good_hex[13] + "\"\n")
         f_obj.write("BCYN=\"" + good_hex[15] + "\"\n")
