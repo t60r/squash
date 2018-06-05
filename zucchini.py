@@ -94,7 +94,4 @@ def write_theme():
         font = input("Enter your font: ")
         pixelsize = input("Enter your pixelsize: ")
         f_obj.write("SQUASH_FONT=\"xft:" + font + ":pixelsize=" + pixelsize + "\"\n")
-        # It's working!!! Just finish this function and you're done!
-        # Get your indexing right!
-        # Drops mic.
 write_theme()
