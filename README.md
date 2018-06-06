@@ -119,13 +119,13 @@ may depend on what backends you use.
 
 ## Using zucchini.py
 
-    1.) Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py.  Change directory to zucchini.py and execute the following:
+1.) Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py.  Change directory to zucchini.py and execute the following:
 
     ```bash
     python zucchini.py
     ```
 
-    2.) This will then prompt you for a colorscheme, use the filename of the terminal.sexy file you have exported.
+2.) This will then prompt you for a colorscheme, use the filename of the terminal.sexy file you have exported.
 
     ```bash
     Please enter your .Xresources input file: foo
@@ -136,11 +136,11 @@ may depend on what backends you use.
     Please enter your pixelsize: 15
     ```
 
-    3.) After entering the information from the prompts you will have a file with a .squash extension.  
+3.) After entering the information from the prompts you will have a file with a .squash extension.  
 
     ```bash
     cp file.squash ~/.config/squash
     squash file.squash
     ```
 
-    You should now be using your new theme with your requested settings.
+You should now be using your new theme with your requested settings.
