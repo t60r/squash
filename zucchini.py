@@ -14,7 +14,6 @@ def parse_resources():
             l = []
             for line in lines:
                 l.append(line.rstrip().split(','))
-            print(l)
             to_delete = [37,34,33,30,29,26,25,22,21,18,17,14,13,10,9,6,5,4,1]
             # by line number
             for item in to_delete:
