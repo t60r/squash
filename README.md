@@ -119,7 +119,7 @@ may depend on what backends you use.
 
 ## Using zucchini.py
 
-Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py  Chenge directory to zucchini.py and execute the following:
+Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py.  Change directory to zucchini.py and execute the following:
 ```bash
 python zucchini.py
 ```
