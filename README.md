@@ -119,26 +119,28 @@ may depend on what backends you use.
 
 ## Using zucchini.py
 
-Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py.  Change directory to zucchini.py and execute the following:
-```bash
-python zucchini.py
-```
+    1.) Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py.  Change directory to zucchini.py and execute the following:
 
-This will then prompt you for a colorscheme, use the filename of the terminal.sexy file you have exported.
+    ```bash
+    python zucchini.py
+    ```
 
-```bash
-Please enter your bar script variable: polybar -r example
-Please enter the name of your wallpaper located in ~/Wallpapers/ : foo.png
-Please enter your wallpaper style: fill
-Please enter your font: Iosevka term
-Please enter your pixelsize: 15
-```
+    2.) This will then prompt you for a colorscheme, use the filename of the terminal.sexy file you have exported.
 
-After entering the information from the prompts you will have a file with a .squash extension.  
+    ```bash
+    Please enter your .Xresources input file: foo
+    Please enter your bar script variable: polybar -r example
+    Please enter the name of your wallpaper located in ~/Wallpapers/ : foo.png
+    Please enter your wallpaper style: fill
+    Please enter your font: Iosevka Term
+    Please enter your pixelsize: 15
+    ```
 
-```bash
-cp file.squash ~/.config/squash
-squash file.squash
-```
+    3.) After entering the information from the prompts you will have a file with a .squash extension.  
 
-You should now be using your new theme with your requested settings.
+    ```bash
+    cp file.squash ~/.config/squash
+    squash file.squash
+    ```
+
+    You should now be using your new theme with your requested settings.
