@@ -122,7 +122,7 @@ may depend on what backends you use.
 1.) Export any theme you like from terminal.sexy and save it to the same directory as zucchini.py.  Change directory to zucchini.py and execute the following:
 
 
-    python zucchini.py
+    ./zucchini.py
 
 
 2.) This will then prompt you for a colorscheme, use the filename of the terminal.sexy file you have exported.
