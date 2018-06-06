@@ -14,7 +14,8 @@ def parse_resources():
             l = []
             for line in lines:
                 l.append(line.rstrip().split(','))
-            to_delete = [34,33,30,29,26,25,22,21,18,17,14,13,10,9,6,5,4,1]
+            print(l)
+            to_delete = [37,34,33,30,29,26,25,22,21,18,17,14,13,10,9,6,5,4,1]
             # by line number
             for item in to_delete:
                 del l[item - 1] # by index
@@ -26,7 +27,6 @@ def parse_resources():
     except FileNotFoundError: 
         msg = "Sorry, the file " + filename + " does not exist." 
         print(msg) 
-
 good_hex = parse_resources()
 
 outfile = str(filename + ".squash")
@@ -94,4 +94,5 @@ def write_theme():
         font = input("Enter your font: ")
         pixelsize = input("Enter your pixelsize: ")
         f_obj.write("SQUASH_FONT=\"xft:" + font + ":pixelsize=" + pixelsize + "\"\n")
+
 write_theme()
